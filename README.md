@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhi-33
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning C.
+- 🌱 c Programmer , Currently Learning Front-End Development.
 - 💞️ I’m looking to collaborate on some business ideas
-- 📫 How to reach me ,instagram:"abhi.aestheticy"
+- 📫 How to reach me instagram:"abhi.aestheticy"
 
 <!---
 Abhi-33/Abhi-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
