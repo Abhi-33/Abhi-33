@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhi-33
+- 👋 Hi, I’m Abhishek Vashisth.
 - 👀 I’m interested in programming and web development.
-- 🌱 c Programmer , Currently Learning Front-End Development.
+- 🌱 C Programmer , Currently Learning Front-End Development.
 - 💞️ I’m looking to collaborate on some business ideas
-- 📫 How to reach me instagram:"abhi.aestheticy"
+- 📫 How to reach me instagram:"gizmorix"
 
 <!---
 Abhi-33/Abhi-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
