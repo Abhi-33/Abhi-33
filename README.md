@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishekva63021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekva63021" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek vashisth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek vashisth" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhishek-vashisth-889128257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek vashisth" height="30" width="40" /></a>
 <a href="https://instagram.com/gizmorix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gizmorix" height="30" width="40" /></a>
 <a href="https://discord.gg/wavy_mehllo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wavy_mehllo" height="30" width="40" /></a>
 </p>
